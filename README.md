@@ -46,7 +46,7 @@ Competed in Sumo Lego robotics with hands-on experience in mechanical design, se
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosa-carolina&layout=compact&theme=tokyonight" 
+  src="https://github-contributor-stats.vercel.app/api/top-langs?username=rosa-carolina&limit=5&theme=github_dark" 
   height="180"
 />
 
